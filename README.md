@@ -3,6 +3,9 @@
 ## Description
 tfd_calculator is a comprehensive tool designed for players of "The First Descendant". It currently focuses on weapon analysis and comparison, with plans for future expansion to include additional features.
 
+## Special thanks:
+Shout out to RyeChew who I found the spreadsheets for the weapons from.
+
 ## Features
 - Weapon data visualization and analysis
 - Advanced search and filter capabilities
