@@ -54,7 +54,77 @@ The warning occurs because the executable file is not digitally signed with a tr
 This is a random calculator I made for a video game, I'm not gonna do all that lol... I assure you that the program is safe to use and does not contain any malicious code.
 If you are concerned about the safety of the program, I encourage you to review the source code, which is included in this repository. You can examine the code to verify that it does not contain any harmful or malicious functionality.
 If you are still unsure or uncomfortable with running the executable, you have the option to compile the program from the source code yourself. This way, you can ensure that the program you are running is exactly what you see in the source code.
-Or you can simply run the python program after installing it's required libraries, I'll put some instructions for that together later I kinda want to play now sorry lol.
 
-I apologize for any inconvenience caused by the false virus warning. Please be assured that I am committed to providing a safe and trustworthy program. If you have any further concerns or questions, please don't hesitate to reach out to me.
+Or you can do it the hard way... run the python program after installing it's required libraries.
+
+# Setting Up Python Development Environment
+
+## Download and Install Python:
+
+Visit the official Python website: https://www.python.org/downloads/
+Download the latest version of Python for Windows (e.g., Python 3.9.7).
+Run the installer and follow the installation steps.
+Make sure to check the option to add Python to the PATH during the installation.
+
+
+# Install Visual Studio Code (VS Code):
+
+Visit the official VS Code website: https://code.visualstudio.com/download
+Download the VS Code installer for Windows.
+Run the installer and follow the installation steps.
+
+
+# Install PySide6 Library:
+
+Open a command prompt or PowerShell.
+Run the following command to install PySide6 using pip:
+Copypip install PySide6
+
+
+
+# Set Up VS Code for Python Development:
+
+Open VS Code.
+Go to the Extensions view by clicking on the square icon in the left sidebar or pressing Ctrl+Shift+X.
+Search for the "Python" extension by Microsoft and install it.
+Restart VS Code if prompted.
+
+
+# Create a New Python File:
+
+Open VS Code.
+Click on "File" in the menu bar and select "New File".
+Save the file with a .py extension (e.g., your_script.py).
+
+
+# Copy and Paste the Python Code:
+
+Copy the provided Python code.
+Paste the code into the newly created Python file in VS Code and save it.
+
+
+# Run the Python Script:
+
+Open a terminal within VS Code by selecting "Terminal" from the menu bar and choosing "New Terminal".
+In the terminal, navigate to the directory where you saved the Python file using the cd command.
+Run the Python script by executing the following command:
+Copypython your_script.py
+
+Replace your_script.py with the actual name of your Python file.
+
+
+# Troubleshooting:
+
+If you encounter any issues or errors, make sure you have installed Python and PySide6 correctly.
+Verify that the Python extension is installed and enabled in VS Code.
+Check the terminal output for any error messages and refer to the Python documentation or seek help from the Python community if needed.
+
+
+
+That's it! You should now have a Python development environment set up on your Windows PC, and you can run the provided Python code in VS Code.
+
+I apologize for any inconvenience caused by the false virus warning. Please be assured that I am committed to providing a safe and trustworthy program but i can't be assed to set up a signature for such a small fun project.
+
+If you have any further concerns or questions, please don't hesitate to reach out to me on discord @mechaophidian
+
 Thank you for your understanding and support!
