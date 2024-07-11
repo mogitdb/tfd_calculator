@@ -28,7 +28,8 @@ Shout out to RyeChew who I found the spreadsheets for the weapons from.
 
 ## Planned Features
 
-### Coming Soon
+### To-Do List
+- Add copies of the same weapon & allow for multiple module loadouts
 - Defensive Values Calculator
 - Skill Values Analysis
 - Loot Modifier Simulator
