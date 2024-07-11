@@ -47,3 +47,14 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 
 ## Contact
 For questions, suggestions, or issues, please open an issue on this repository.
+
+## Important Note: False Positive Virus Warning
+When attempting to run the executable file (tfd_calculator.exe) for this program, you may encounter a virus or security warning from your operating system or anti-virus software. Please be assured that this is a false positive warning.
+The warning occurs because the executable file is not digitally signed with a trusted code signing certificate. Code signing is a process that verifies the authenticity and integrity of the software, but it requires the developer to obtain a certificate from a trusted authority, which can be a costly and time-consuming process.
+This is a random calculator I made for a video game, I'm not gonna do all that lol... I assure you that the program is safe to use and does not contain any malicious code.
+If you are concerned about the safety of the program, I encourage you to review the source code, which is included in this repository. You can examine the code to verify that it does not contain any harmful or malicious functionality.
+If you are still unsure or uncomfortable with running the executable, you have the option to compile the program from the source code yourself. This way, you can ensure that the program you are running is exactly what you see in the source code.
+Or you can simply run the python program after installing it's required libraries, I'll put some instructions for that together later I kinda want to play now sorry lol.
+
+I apologize for any inconvenience caused by the false virus warning. Please be assured that I am committed to providing a safe and trustworthy program. If you have any further concerns or questions, please don't hesitate to reach out to me.
+Thank you for your understanding and support!
