@@ -1,4 +1,5 @@
 import sys
+import os
 import csv
 from PySide6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout,
                                QPushButton, QLabel, QLineEdit, QTableWidget, QTableWidgetItem,
@@ -220,7 +221,8 @@ class WeaponAnalyzer(QMainWindow):
         self.setStyleSheet("background-color: #2b2b2b; color: white;")
 
         # Set the window icon
-        self.setWindowIcon(QIcon('icon.png'))  # Make sure to have an 'icon.png' file in the same directory
+        icon_path = self.get_resource_path('icon.png')
+        self.setWindowIcon(QIcon(icon_path))
 
         self.weapons = []
         self.module_modifiers = {}
@@ -229,16 +231,48 @@ class WeaponAnalyzer(QMainWindow):
         self.statusBar = QStatusBar()
         self.setStatusBar(self.statusBar)
 
-    # ... (rest of the class remains unchanged)
+        # Load CSV data on startup
+        self.load_csv()
+
+    def get_resource_path(self, relative_path):
+        """Get the path to a resource, works for dev and for PyInstaller"""
+        if getattr(sys, 'frozen', False):
+            # If the application is run as a bundle, the PyInstaller bootloader
+            # extends the sys module by a flag frozen=True and sets the app 
+            # path into variable _MEIPASS'.
+            application_path = sys._MEIPASS
+        else:
+            application_path = os.path.dirname(os.path.abspath(__file__))
+        return os.path.join(application_path, relative_path)
+
+    def load_csv(self):
+        # Get the directory of the script or executable
+        if getattr(sys, 'frozen', False):
+            application_path = sys._MEIPASS
+        else:
+            application_path = os.path.dirname(os.path.abspath(__file__))
+
+        # Construct the path to data.csv
+        file_path = os.path.join(application_path, 'data.csv')
+
+        try:
+            with open(file_path, 'r', encoding='utf-8') as file:
+                reader = csv.DictReader(file)
+                self.weapons = list(reader)
+            self.update_table()
+            self.create_module_inputs()
+            self.statusBar.showMessage(f"Loaded {len(self.weapons)} weapons from data.csv", 5000)
+        except FileNotFoundError:
+            QMessageBox.critical(self, "Error", "data.csv file not found. Please ensure it's in the same directory as the application.")
+        except Exception as e:
+            QMessageBox.critical(self, "Error", f"Failed to load CSV file: {str(e)}")
+            print(f"Detailed error: {e}")  # More detailed error in console
 
     def create_menu(self):
         menubar = self.menuBar()
         file_menu = menubar.addMenu("File")
         
-        open_action = QAction("Open CSV", self)
-        open_action.triggered.connect(self.load_csv)
-        file_menu.addAction(open_action)
-        
+        # Remove the Open CSV action
         save_action = QAction("Save CSV", self)
         save_action.triggered.connect(self.save_csv)
         file_menu.addAction(save_action)
@@ -308,20 +342,6 @@ class WeaponAnalyzer(QMainWindow):
 
         # Set initial sizes for splitter
         splitter.setSizes([int(self.height() * 0.5), int(self.height() * 0.5)])
-
-    def load_csv(self):
-        file_name, _ = QFileDialog.getOpenFileName(self, "Open CSV File", "", "CSV Files (*.csv)")
-        if file_name:
-            try:
-                with open(file_name, 'r', encoding='utf-8') as file:
-                    reader = csv.DictReader(file)
-                    self.weapons = list(reader)
-                self.update_table()
-                self.create_module_inputs()
-                self.statusBar.showMessage(f"Loaded {len(self.weapons)} weapons from {file_name}", 5000)
-            except Exception as e:
-                QMessageBox.critical(self, "Error", f"Failed to load CSV file: {str(e)}")
-                print(f"Detailed error: {e}")  # More detailed error in console
 
     def save_csv(self):
         if not self.weapons:
