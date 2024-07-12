@@ -14,7 +14,7 @@ Shout out to RyeChew who I found the spreadsheets for the weapons from.
 - User-friendly interface with dark mode
 
 ## Installation
-1. Download the latest release from the [Releases](https://github.com/mogitdb/tfd-calculator/releases) page.
+1. Download the latest release from the [Releases](https://github.com/mogitdb/tfd_calculator/releases/tag/v1.0.0) page.
 2. Extract the zip file to your desired location.
 3. Navigate to the `dist` folder within the extracted directory.
 4. Run the `tfd_calculator.exe` file.
