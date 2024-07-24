@@ -1,0 +1,5572 @@
+[
+  {
+    "map_id": "610001001",
+    "map_name": "Albion",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610002000",
+    "map_name": "Outskirts of Kingston",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610002001",
+    "map_name": "Vespers",
+    "battle_zone": [
+      {
+        "battle_zone_id": "401",
+        "battle_zone_name": "The Lumber Yard",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Auxiliary Power",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "402",
+        "battle_zone_name": "The Ruins",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Auxiliary Power",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Memory",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "403",
+        "battle_zone_name": "Lost Supply Depot",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Sensor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "404",
+        "battle_zone_name": "Moonlight Lake",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "405",
+        "battle_zone_name": "Timberfall",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Processor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "610002002",
+    "map_name": "Kingston",
+    "battle_zone": [
+      {
+        "battle_zone_id": "301",
+        "battle_zone_name": "The Destruction",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Memory",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "302",
+        "battle_zone_name": "The Fallen Theater",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Sensor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "303",
+        "battle_zone_name": "Grand Square",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Auxiliary Power",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "610002003",
+    "map_name": "Agna Desert",
+    "battle_zone": [
+      {
+        "battle_zone_id": "501",
+        "battle_zone_name": "Vermilion Waste",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Processor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "502",
+        "battle_zone_name": "Remnant",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Memory",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Sensor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "503",
+        "battle_zone_name": "The Storage",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Memory",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Sensor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "504",
+        "battle_zone_name": "The Mining Site",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Processor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "505",
+        "battle_zone_name": "Miragestone",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Processor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "610002004",
+    "map_name": "Echo Swamp",
+    "battle_zone": [
+      {
+        "battle_zone_id": "701",
+        "battle_zone_name": "Misty Woods",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "702",
+        "battle_zone_name": "Abandoned Zone",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Sensor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Auxiliary Power",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "703",
+        "battle_zone_name": "Muskeg Swamp",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Memory",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Processor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Auxiliary Power",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "704",
+        "battle_zone_name": "Derelict Covert",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Sensor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "610002005",
+    "map_name": "Fortress",
+    "battle_zone": [
+      {
+        "battle_zone_id": "801",
+        "battle_zone_name": "The Aurora Forest",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Auxiliary Power",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "802",
+        "battle_zone_name": "Frozen Valley",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Processor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Auxiliary Power",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Memory",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "803",
+        "battle_zone_name": "Fallen Ark",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "804",
+        "battle_zone_name": "Convertor Facility",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Sensor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "805",
+        "battle_zone_name": "Defense Line",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Auxiliary Power",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "610002006",
+    "map_name": "Sterile Land",
+    "battle_zone": [
+      {
+        "battle_zone_id": "601",
+        "battle_zone_name": "Rockfall",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Processor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "602",
+        "battle_zone_name": "Repository",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Memory",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Auxiliary Power",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "603",
+        "battle_zone_name": "Restricted Zone",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "604",
+        "battle_zone_name": "Ironworks",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Sensor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Processor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "605",
+        "battle_zone_name": "Classified Area",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "610002007",
+    "map_name": "Hagios",
+    "battle_zone": [
+      {
+        "battle_zone_id": "901",
+        "battle_zone_name": "Dune Base",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "902",
+        "battle_zone_name": "The Corrupted Zone",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Processor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Memory",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "903",
+        "battle_zone_name": "Fractured Monolith",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Sensor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "904",
+        "battle_zone_name": "Forward Base",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Memory",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "905",
+        "battle_zone_name": "Starfall Road",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "610002008",
+    "map_name": "White-night Gulch",
+    "battle_zone": [
+      {
+        "battle_zone_id": "1001",
+        "battle_zone_name": "The Mountaintops",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Auxiliary Power",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Memory",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "1002",
+        "battle_zone_name": "Moongrave Basin",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Sensor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Processor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "1003",
+        "battle_zone_name": "Observatory",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Auxiliary Power",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Memory",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "1004",
+        "battle_zone_name": "Shipment Base",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Sensor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          }
+        ]
+      },
+      {
+        "battle_zone_id": "1005",
+        "battle_zone_name": "Hatchery",
+        "reward": [
+          {
+            "rotation": 1,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 2,
+            "reward_type": "Processor",
+            "reactor_element_type": null,
+            "weapon_rounds_type": null,
+            "arche_type": null
+          },
+          {
+            "rotation": 3,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 4,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 5,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 6,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 7,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 8,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 9,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 10,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Singular"
+          },
+          {
+            "rotation": 11,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "Special Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 12,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 13,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Dimension"
+          },
+          {
+            "rotation": 14,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Fire",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 15,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 16,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Chill",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 17,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Non-Attribute",
+            "weapon_rounds_type": "General Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 18,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Fusion"
+          },
+          {
+            "rotation": 19,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Toxic",
+            "weapon_rounds_type": "Impact Rounds",
+            "arche_type": "Tech"
+          },
+          {
+            "rotation": 20,
+            "reward_type": "Reactor",
+            "reactor_element_type": "Electric",
+            "weapon_rounds_type": "High-Power Rounds",
+            "arche_type": "Dimension"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "610002009",
+    "map_name": "Undecided Zone",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610002010",
+    "map_name": "Hagios",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610003001",
+    "map_name": "Void Intercept Battle Location",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610003002",
+    "map_name": "Void Intercept Battle Location",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610003003",
+    "map_name": "Void Intercept Battle Location",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610005001",
+    "map_name": "Vespers",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610005002",
+    "map_name": "Vespers",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610005003",
+    "map_name": "Kingston",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610005004",
+    "map_name": "Kingston",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610005005",
+    "map_name": "Agna Desert",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610005006",
+    "map_name": "Agna Desert",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610005007",
+    "map_name": "Echo Swamp",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610005008",
+    "map_name": "Echo Swamp",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610005009",
+    "map_name": "Fortress",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610005010",
+    "map_name": "Fortress",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610005011",
+    "map_name": "Sterile Land",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610005012",
+    "map_name": "Sterile Land",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610005013",
+    "map_name": "Hagios",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610005014",
+    "map_name": "Hagios",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610005015",
+    "map_name": "White-night Gulch",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610005016",
+    "map_name": "White-night Gulch",
+    "battle_zone": []
+  },
+  {
+    "map_id": "610006001",
+    "map_name": "Laboratory",
+    "battle_zone": []
+  }
+]

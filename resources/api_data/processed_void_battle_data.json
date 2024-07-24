@@ -1,0 +1,66 @@
+[
+  {
+    "void_battle_id": "651000001",
+    "void_battle_name": "Grave Walker"
+  },
+  {
+    "void_battle_id": "651000002",
+    "void_battle_name": "Stunning Beauty"
+  },
+  {
+    "void_battle_id": "651000003",
+    "void_battle_name": "Executioner"
+  },
+  {
+    "void_battle_id": "651000004",
+    "void_battle_name": "Dead Bride"
+  },
+  {
+    "void_battle_id": "651000005",
+    "void_battle_name": "Devourer"
+  },
+  {
+    "void_battle_id": "651000006",
+    "void_battle_name": "Pyromaniac"
+  },
+  {
+    "void_battle_id": "651000007",
+    "void_battle_name": "Swamp Walker"
+  },
+  {
+    "void_battle_id": "651000008",
+    "void_battle_name": "Hanged Man"
+  },
+  {
+    "void_battle_id": "652000001",
+    "void_battle_name": "Executioner"
+  },
+  {
+    "void_battle_id": "652000002",
+    "void_battle_name": "Dead Bride"
+  },
+  {
+    "void_battle_id": "652000003",
+    "void_battle_name": "Devourer"
+  },
+  {
+    "void_battle_id": "652000004",
+    "void_battle_name": "Pyromaniac"
+  },
+  {
+    "void_battle_id": "652000005",
+    "void_battle_name": "Swamp Walker"
+  },
+  {
+    "void_battle_id": "652000006",
+    "void_battle_name": "Obstructer"
+  },
+  {
+    "void_battle_id": "652000007",
+    "void_battle_name": "Frost Walker"
+  },
+  {
+    "void_battle_id": "652000008",
+    "void_battle_name": "Molten Fortress"
+  }
+]

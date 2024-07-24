@@ -1,0 +1,730 @@
+[
+  {
+    "stat_id": "105000001",
+    "stat_name": "Max HP"
+  },
+  {
+    "stat_id": "105000002",
+    "stat_name": "Knockback Speed"
+  },
+  {
+    "stat_id": "105000003",
+    "stat_name": "Knockback Time"
+  },
+  {
+    "stat_id": "105000004",
+    "stat_name": "Knockdown Time"
+  },
+  {
+    "stat_id": "105000005",
+    "stat_name": "Max Range"
+  },
+  {
+    "stat_id": "105000006",
+    "stat_name": "Hip Fire Accuracy"
+  },
+  {
+    "stat_id": "105000007",
+    "stat_name": "Crosshair Max Size"
+  },
+  {
+    "stat_id": "105000008",
+    "stat_name": "Impulse"
+  },
+  {
+    "stat_id": "105000011",
+    "stat_name": "Grappling Hook Cooldown Increase Ratio"
+  },
+  {
+    "stat_id": "105000013",
+    "stat_name": "Aim Delay Time"
+  },
+  {
+    "stat_id": "105000014",
+    "stat_name": "Close Aim Delay Time"
+  },
+  {
+    "stat_id": "105000015",
+    "stat_name": "Jump Speed"
+  },
+  {
+    "stat_id": "105000017",
+    "stat_name": "Rescue Time"
+  },
+  {
+    "stat_id": "105000018",
+    "stat_name": "Movement Speed"
+  },
+  {
+    "stat_id": "105000019",
+    "stat_name": "Sprint Speed"
+  },
+  {
+    "stat_id": "105000020",
+    "stat_name": "Movement Speed While Aiming"
+  },
+  {
+    "stat_id": "105000021",
+    "stat_name": "Rounds per Magazine"
+  },
+  {
+    "stat_id": "105000022",
+    "stat_name": "Load Capacity"
+  },
+  {
+    "stat_id": "105000023",
+    "stat_name": "Fire Rate"
+  },
+  {
+    "stat_id": "105000024",
+    "stat_name": "Max MP"
+  },
+  {
+    "stat_id": "105000025",
+    "stat_name": "Max Shield"
+  },
+  {
+    "stat_id": "105000026",
+    "stat_name": "Firearm ATK"
+  },
+  {
+    "stat_id": "105000027",
+    "stat_name": "Min. ATK"
+  },
+  {
+    "stat_id": "105000028",
+    "stat_name": "Max ATK"
+  },
+  {
+    "stat_id": "105000029",
+    "stat_name": "DEF"
+  },
+  {
+    "stat_id": "105000030",
+    "stat_name": "Firearm Critical Hit Rate"
+  },
+  {
+    "stat_id": "105000031",
+    "stat_name": "Firearm Critical Hit Damage"
+  },
+  {
+    "stat_id": "105000032",
+    "stat_name": "Shell Capacity"
+  },
+  {
+    "stat_id": "105000033",
+    "stat_name": "Bullet Cost"
+  },
+  {
+    "stat_id": "105000034",
+    "stat_name": "Movement Speed While Firing"
+  },
+  {
+    "stat_id": "105000035",
+    "stat_name": "Weak Point Damage"
+  },
+  {
+    "stat_id": "105000036",
+    "stat_name": "Aimed Shot Accuracy"
+  },
+  {
+    "stat_id": "105000037",
+    "stat_name": "Crosshair Change While Moving"
+  },
+  {
+    "stat_id": "105000038",
+    "stat_name": "Crosshair Change While Shooting"
+  },
+  {
+    "stat_id": "105000039",
+    "stat_name": "Crosshair Change When Shooting While Aiming"
+  },
+  {
+    "stat_id": "105000040",
+    "stat_name": "Aim Recovery Speed"
+  },
+  {
+    "stat_id": "105000041",
+    "stat_name": "Crosshair Change Speed"
+  },
+  {
+    "stat_id": "105000042",
+    "stat_name": "Climb Speed (Monster)"
+  },
+  {
+    "stat_id": "105000043",
+    "stat_name": "Walking Speed (Monster)"
+  },
+  {
+    "stat_id": "105000044",
+    "stat_name": "Environmental Destruction (Boss)"
+  },
+  {
+    "stat_id": "105000045",
+    "stat_name": "Explosion Radius"
+  },
+  {
+    "stat_id": "105000046",
+    "stat_name": "Roll Time"
+  },
+  {
+    "stat_id": "105000047",
+    "stat_name": "Roll Cooldown"
+  },
+  {
+    "stat_id": "105000048",
+    "stat_name": "Domination"
+  },
+  {
+    "stat_id": "105000049",
+    "stat_name": "Control"
+  },
+  {
+    "stat_id": "105000050",
+    "stat_name": "Fortitude"
+  },
+  {
+    "stat_id": "105000051",
+    "stat_name": "Crosshair Min Size"
+  },
+  {
+    "stat_id": "105000052",
+    "stat_name": "Reload Time Modifier"
+  },
+  {
+    "stat_id": "105000053",
+    "stat_name": "Magazine Reloading Time"
+  },
+  {
+    "stat_id": "105000054",
+    "stat_name": "Effective Range (Drop-off start)"
+  },
+  {
+    "stat_id": "105000055",
+    "stat_name": "Effective Range (Drop-off end)"
+  },
+  {
+    "stat_id": "105000056",
+    "stat_name": "ATK Drop-off Modifier"
+  },
+  {
+    "stat_id": "105000057",
+    "stat_name": "Explosive ATK"
+  },
+  {
+    "stat_id": "105000058",
+    "stat_name": "Fire ATK"
+  },
+  {
+    "stat_id": "105000059",
+    "stat_name": "Chill ATK"
+  },
+  {
+    "stat_id": "105000060",
+    "stat_name": "Electric ATK"
+  },
+  {
+    "stat_id": "105000061",
+    "stat_name": "Toxic ATK"
+  },
+  {
+    "stat_id": "105000062",
+    "stat_name": "Fire Resistance"
+  },
+  {
+    "stat_id": "105000063",
+    "stat_name": "Chill Resistance"
+  },
+  {
+    "stat_id": "105000064",
+    "stat_name": "Electric Resistance"
+  },
+  {
+    "stat_id": "105000065",
+    "stat_name": "Toxin Resistance"
+  },
+  {
+    "stat_id": "105000066",
+    "stat_name": "Firearm Critical Hit Resistance"
+  },
+  {
+    "stat_id": "105000069",
+    "stat_name": "Burst"
+  },
+  {
+    "stat_id": "105000070",
+    "stat_name": "Crush"
+  },
+  {
+    "stat_id": "105000071",
+    "stat_name": "Pierce"
+  },
+  {
+    "stat_id": "105000072",
+    "stat_name": "Burst Fire Rate"
+  },
+  {
+    "stat_id": "105000073",
+    "stat_name": "Explosion ATK Drop-off Range"
+  },
+  {
+    "stat_id": "105000074",
+    "stat_name": "Zoom Out Delay"
+  },
+  {
+    "stat_id": "105000075",
+    "stat_name": "Penetration"
+  },
+  {
+    "stat_id": "105000076",
+    "stat_name": "Penetration DEF"
+  },
+  {
+    "stat_id": "105000077",
+    "stat_name": "Environmental Destruction (Weapon)"
+  },
+  {
+    "stat_id": "105000078",
+    "stat_name": "Environmental Destruction (Skill)"
+  },
+  {
+    "stat_id": "105000079",
+    "stat_name": "Grappling Hook Charge Time Increase Ratio"
+  },
+  {
+    "stat_id": "105000080",
+    "stat_name": "Knockback Chance"
+  },
+  {
+    "stat_id": "105000081",
+    "stat_name": "Knockback Resistance Chance"
+  },
+  {
+    "stat_id": "105000082",
+    "stat_name": "Knockback Time Resistance Value"
+  },
+  {
+    "stat_id": "105000083",
+    "stat_name": "Knockback Speed Resistance Value"
+  },
+  {
+    "stat_id": "105000084",
+    "stat_name": "Knockdown Chance"
+  },
+  {
+    "stat_id": "105000085",
+    "stat_name": "Knockdown Speed X"
+  },
+  {
+    "stat_id": "105000086",
+    "stat_name": "Knockdown Speed Z"
+  },
+  {
+    "stat_id": "105000087",
+    "stat_name": "Knockdown Resistance Chance"
+  },
+  {
+    "stat_id": "105000088",
+    "stat_name": "Knockdown Speed X Resistance Value"
+  },
+  {
+    "stat_id": "105000089",
+    "stat_name": "Knockdown Speed Z Resistance Value"
+  },
+  {
+    "stat_id": "105000090",
+    "stat_name": "Knockdown Time Resistance Value"
+  },
+  {
+    "stat_id": "105000092",
+    "stat_name": "Daze Attack Value"
+  },
+  {
+    "stat_id": "105000093",
+    "stat_name": "Stiffness Resistance Value"
+  },
+  {
+    "stat_id": "105000094",
+    "stat_name": "Frenzied state Movement Speed"
+  },
+  {
+    "stat_id": "105000095",
+    "stat_name": "Reload Time"
+  },
+  {
+    "stat_id": "105000096",
+    "stat_name": "HP Recovery Time Interval"
+  },
+  {
+    "stat_id": "105000097",
+    "stat_name": "MP Recovery Time Interval"
+  },
+  {
+    "stat_id": "105000098",
+    "stat_name": "Shield Recovery Time Interval"
+  },
+  {
+    "stat_id": "105000100",
+    "stat_name": "HP Recovery Out of Combat"
+  },
+  {
+    "stat_id": "105000101",
+    "stat_name": "MP Recovery Out of Combat"
+  },
+  {
+    "stat_id": "105000102",
+    "stat_name": "Shield Recovery Out of Combat"
+  },
+  {
+    "stat_id": "105000103",
+    "stat_name": "HP Recovery In Combat"
+  },
+  {
+    "stat_id": "105000104",
+    "stat_name": "MP Recovery In Combat"
+  },
+  {
+    "stat_id": "105000105",
+    "stat_name": "Shield Recovery In Combat"
+  },
+  {
+    "stat_id": "105000106",
+    "stat_name": "Current HP"
+  },
+  {
+    "stat_id": "105000107",
+    "stat_name": "Current MP"
+  },
+  {
+    "stat_id": "105000108",
+    "stat_name": "Current Shield"
+  },
+  {
+    "stat_id": "105000115",
+    "stat_name": "Grappling Hook Additional Charge Count"
+  },
+  {
+    "stat_id": "105000116",
+    "stat_name": "Recoil"
+  },
+  {
+    "stat_id": "105000117",
+    "stat_name": "Skill Cooldown"
+  },
+  {
+    "stat_id": "105000118",
+    "stat_name": "Skill Cost"
+  },
+  {
+    "stat_id": "105000119",
+    "stat_name": "Skill Power Modifier"
+  },
+  {
+    "stat_id": "105000123",
+    "stat_name": "Skill Duration UP"
+  },
+  {
+    "stat_id": "105000124",
+    "stat_name": "Skill Duration DOWN"
+  },
+  {
+    "stat_id": "105000125",
+    "stat_name": "Skill Effect Range"
+  },
+  {
+    "stat_id": "105000126",
+    "stat_name": "Empty Magazine Reload Speed"
+  },
+  {
+    "stat_id": "105000127",
+    "stat_name": "Weapon Change Speed"
+  },
+  {
+    "stat_id": "105000128",
+    "stat_name": "Max General Rounds Modifier"
+  },
+  {
+    "stat_id": "105000129",
+    "stat_name": "Max Special Rounds Modifier"
+  },
+  {
+    "stat_id": "105000130",
+    "stat_name": "Max Impact Rounds Modifier"
+  },
+  {
+    "stat_id": "105000131",
+    "stat_name": "Max High-Power Rounds Modifier"
+  },
+  {
+    "stat_id": "105000133",
+    "stat_name": "Skill Physical ATK Modifier"
+  },
+  {
+    "stat_id": "105000134",
+    "stat_name": "Skill Attribute ATK Modifier"
+  },
+  {
+    "stat_id": "105000135",
+    "stat_name": "HP Heal Modifier"
+  },
+  {
+    "stat_id": "105000136",
+    "stat_name": "HP Recovery Modifier"
+  },
+  {
+    "stat_id": "105000137",
+    "stat_name": "MP Recovery Modifier"
+  },
+  {
+    "stat_id": "105000138",
+    "stat_name": "MP Recovery Modifier"
+  },
+  {
+    "stat_id": "105000139",
+    "stat_name": "Firearm DMG Modifier"
+  },
+  {
+    "stat_id": "105000140",
+    "stat_name": "Outgoing DMG Modifier"
+  },
+  {
+    "stat_id": "105000141",
+    "stat_name": "Incoming DMG Modifier"
+  },
+  {
+    "stat_id": "105000142",
+    "stat_name": "Item Level"
+  },
+  {
+    "stat_id": "105000143",
+    "stat_name": "Base Skill Power Modifier"
+  },
+  {
+    "stat_id": "105000144",
+    "stat_name": "Item Level Correction Constant"
+  },
+  {
+    "stat_id": "105000145",
+    "stat_name": "Skill Power"
+  },
+  {
+    "stat_id": "105000146",
+    "stat_name": "Base Skill Power boost ratio"
+  },
+  {
+    "stat_id": "105000147",
+    "stat_name": "Non-Attribute Skill Power Boost Ratio"
+  },
+  {
+    "stat_id": "105000148",
+    "stat_name": "Fire Skill Power Boost Ratio"
+  },
+  {
+    "stat_id": "105000149",
+    "stat_name": "Chill Skill Power Boost Ratio"
+  },
+  {
+    "stat_id": "105000150",
+    "stat_name": "Electric Skill Power Boost Ratio"
+  },
+  {
+    "stat_id": "105000151",
+    "stat_name": "Toxic Skill Power Boost Ratio"
+  },
+  {
+    "stat_id": "105000152",
+    "stat_name": "Fusion Skill Power Boost Ratio"
+  },
+  {
+    "stat_id": "105000153",
+    "stat_name": "Singular Skill Power Boost Ratio"
+  },
+  {
+    "stat_id": "105000154",
+    "stat_name": "Dimension Skill Power Boost Ratio"
+  },
+  {
+    "stat_id": "105000155",
+    "stat_name": "Tech Skill Power Boost Ratio"
+  },
+  {
+    "stat_id": "105000156",
+    "stat_name": "Non-Attribute Skill Modifier"
+  },
+  {
+    "stat_id": "105000157",
+    "stat_name": "Fire Skill Modifier"
+  },
+  {
+    "stat_id": "105000158",
+    "stat_name": "Chill Skill Modifier"
+  },
+  {
+    "stat_id": "105000159",
+    "stat_name": "Electric Skill Modifier"
+  },
+  {
+    "stat_id": "105000160",
+    "stat_name": "Toxic Skill Modifier"
+  },
+  {
+    "stat_id": "105000161",
+    "stat_name": "Fusion Skill Modifier"
+  },
+  {
+    "stat_id": "105000162",
+    "stat_name": "Singular Skill Modifier"
+  },
+  {
+    "stat_id": "105000163",
+    "stat_name": "Dimension Skill Modifier"
+  },
+  {
+    "stat_id": "105000164",
+    "stat_name": "Tech Skill Modifier"
+  },
+  {
+    "stat_id": "105000165",
+    "stat_name": "Skill Critical Hit Rate"
+  },
+  {
+    "stat_id": "105000166",
+    "stat_name": "Skill Critical Hit Damage"
+  },
+  {
+    "stat_id": "105000167",
+    "stat_name": "Skill Critical Hit Resistance"
+  },
+  {
+    "stat_id": "105000168",
+    "stat_name": "Skill DEF"
+  },
+  {
+    "stat_id": "105000169",
+    "stat_name": "Non-Attribute Resistance"
+  },
+  {
+    "stat_id": "105000170",
+    "stat_name": "Attribute Status Effect Trigger Rate"
+  },
+  {
+    "stat_id": "105000171",
+    "stat_name": "Outgoing Shield Recovery Modifier"
+  },
+  {
+    "stat_id": "105000172",
+    "stat_name": "Shield Recovery Modifier"
+  },
+  {
+    "stat_id": "105000174",
+    "stat_name": "Launcher Explosion Radius"
+  },
+  {
+    "stat_id": "105000175",
+    "stat_name": "DBNO Revival Time"
+  },
+  {
+    "stat_id": "105000176",
+    "stat_name": "Module Drop Rate Increase Modifier"
+  },
+  {
+    "stat_id": "105000177",
+    "stat_name": "Equipment Drop Rate Increase Modifier"
+  },
+  {
+    "stat_id": "105000178",
+    "stat_name": "Consumable Drop Rate Increase Modifier"
+  },
+  {
+    "stat_id": "105000179",
+    "stat_name": "Gold Drop Rate Increase Modifier"
+  },
+  {
+    "stat_id": "105000180",
+    "stat_name": "Kuiper Shard Drop Rate Increase Modifier"
+  },
+  {
+    "stat_id": "105000181",
+    "stat_name": "Character EXP Gain Modifier"
+  },
+  {
+    "stat_id": "105000182",
+    "stat_name": "Firearm Proficiency Gain Modifier"
+  },
+  {
+    "stat_id": "105000183",
+    "stat_name": "Bonus Firearm ATK (vs. Colossus)"
+  },
+  {
+    "stat_id": "105000184",
+    "stat_name": "Bonus Firearm ATK (vs. Legion of Darkness)"
+  },
+  {
+    "stat_id": "105000185",
+    "stat_name": "Bonus Firearm ATK (vs. Order of Truth)"
+  },
+  {
+    "stat_id": "105000186",
+    "stat_name": "Bonus Firearm ATK (vs. Legion of Immortality)"
+  },
+  {
+    "stat_id": "105000187",
+    "stat_name": "DBNO Duration"
+  },
+  {
+    "stat_id": "105000188",
+    "stat_name": "Item Acquisition Distance Increase Modifier"
+  },
+  {
+    "stat_id": "105000190",
+    "stat_name": "Ecive Search Radius Increase Modifier"
+  },
+  {
+    "stat_id": "105000191",
+    "stat_name": "Ecive Display Time"
+  },
+  {
+    "stat_id": "105000192",
+    "stat_name": "Sub Attack Power"
+  },
+  {
+    "stat_id": "105000193",
+    "stat_name": "Sub Attack Power Modifier"
+  },
+  {
+    "stat_id": "105000194",
+    "stat_name": "Beam Rifle Charge Gain Speed"
+  },
+  {
+    "stat_id": "105000195",
+    "stat_name": "Beam Rifle Charge Depletion Speed"
+  },
+  {
+    "stat_id": "105000196",
+    "stat_name": "Additional Skill ATK When Attacking Colossus"
+  },
+  {
+    "stat_id": "105000197",
+    "stat_name": "Additional Skill ATK When Attacking Legion of Darkness"
+  },
+  {
+    "stat_id": "105000198",
+    "stat_name": "Additional Skill ATK When Attacking Order of Truth"
+  },
+  {
+    "stat_id": "105000199",
+    "stat_name": "Additional Skill ATK When Attacking Legion of Immortality"
+  },
+  {
+    "stat_id": "105000214",
+    "stat_name": "Skill Speed & Range Increase Modifier"
+  },
+  {
+    "stat_id": "105000219",
+    "stat_name": "Projectile Penetration"
+  },
+  {
+    "stat_id": "105000220",
+    "stat_name": "Projectile Piercing Defense"
+  }
+]
